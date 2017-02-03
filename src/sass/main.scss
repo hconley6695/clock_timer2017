@@ -1,0 +1,23 @@
+/* CSS Entry Point */
+
+// Turn on freq used libraries
+// @import 'normalize-css/normalize';
+// @import 'font-awesome/scss/font-awesome';
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.home-div {
+	height: 200px;
+	background-color: #cccccc;
+	width: 60%;
+	text-align: center;
+}
+
+.timer-div {
+	text-align: center;
+	border: 1px solid black;
+}
